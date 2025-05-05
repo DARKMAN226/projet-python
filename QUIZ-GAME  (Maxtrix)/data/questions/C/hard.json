@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does 'int (*ptr)[10];' mean in C?",
+      "options": [
+        "Array of 10 pointers",
+        "Pointer to an int",
+        "Pointer to an array of 10 integers",
+        "Syntax error"
+      ],
+      "correct_answer": 2,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "This declares a pointer to an array of 10 integers."
+    },
+    {
+      "id": 2,
+      "question": "What is the problem in this code: char *p = malloc(10); strcpy(p, \"hello\"); ?",
+      "options": [
+        "Missing #include",
+        "Not enough memory allocated",
+        "No free() called",
+        "No problem"
+      ],
+      "correct_answer": 3,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "There is no problem; 10 bytes are enough to store 'hello' and the null terminator."
+    },
+    {
+      "id": 3,
+      "question": "What does 'int *p = &x++;' do in C?",
+      "options": [
+        "Increments x, then p points to it",
+        "Compilation error",
+        "p points to x, then x increments",
+        "None of the above"
+      ],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "You cannot take the address of a post-incremented variable; this is a compilation error."
+    },
+    {
+      "id": 4,
+      "question": "What does 'printf(\"%d\", printf(\"hello\"));' output?",
+      "options": [
+        "hello5",
+        "5hello",
+        "hello followed by 5",
+        "Error"
+      ],
+      "correct_answer": 0,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "First, 'hello' is printed (printf returns 5), then 5 is printed, so the output is 'hello5'."
+    },
+    {
+      "id": 5,
+      "question": "What is the result of 'sizeof(char*) == sizeof(int*)' on most modern architectures?",
+      "options": [
+        "Always true",
+        "Always false",
+        "True on most platforms",
+        "Depends on the compiler only"
+      ],
+      "correct_answer": 2,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "On most platforms, all pointers have the same size, but this is not guaranteed by the standard."
+    },
+    {
+      "id": 6,
+      "question": "What is the output of this code?\nint a = 5;\nprintf(\"%d\", a++ + ++a);",
+      "options": [
+        "12",
+        "11",
+        "Undefined behavior",
+        "10"
+      ],
+      "correct_answer": 2,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "Using 'a++' and '++a' in the same expression causes undefined behavior."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a valid way to dynamically allocate a 2D array in C?",
+      "options": [
+        "int **arr = malloc(rows * cols * sizeof(int));",
+        "int *arr = malloc(rows * sizeof(int*));",
+        "int **arr = malloc(rows * sizeof(int*)); for(int i=0;i<rows;i++) arr[i]=malloc(cols*sizeof(int));",
+        "int arr[rows][cols];"
+      ],
+      "correct_answer": 2,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "This is the standard way to dynamically allocate a 2D array using pointers."
+    },
+    {
+      "id": 8,
+      "question": "Which statement about 'const' in C is correct?",
+      "options": [
+        "const variables must be initialized at declaration",
+        "const int *p means the pointer is constant",
+        "int *const p means the pointer is constant",
+        "const int p* is valid syntax"
+      ],
+      "correct_answer": 2,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "'int *const p' declares a constant pointer to an int."
+    },
+    {
+      "id": 9,
+      "question": "What is the effect of 'free(NULL);' in C?",
+      "options": [
+        "Causes a segmentation fault",
+        "Has no effect",
+        "Frees NULL pointer",
+        "Compiler error"
+      ],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "Calling free(NULL) has no effect; it is safe and does nothing."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT a storage class specifier in C?",
+      "options": [
+        "auto",
+        "static",
+        "register",
+        "mutable"
+      ],
+      "correct_answer": 3,
+      "difficulty": "hard",
+      "category": "C",
+      "explanation": "'mutable' is not a storage class specifier in C; it is used in C++."
+    }
+  ]
+}

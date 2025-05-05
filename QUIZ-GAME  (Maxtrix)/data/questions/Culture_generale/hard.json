@@ -1,0 +1,99 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which French king said 'L'État, c'est moi' ('I am the state')?",
+      "options": ["Louis XVI", "Louis XIV", "Napoleon Bonaparte", "Charlemagne"],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "Louis XIV, also known as the Sun King, is famous for this declaration."
+    },
+    {
+      "id": 2,
+      "question": "Which scientist was the first woman to win a Nobel Prize?",
+      "options": ["Rosalind Franklin", "Marie Curie", "Ada Lovelace", "Florence Nightingale"],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "Marie Curie was the first woman to win a Nobel Prize, and the only person to win in two different sciences."
+    },
+    {
+      "id": 3,
+      "question": "What major event happened on September 11, 2001?",
+      "options": [
+        "Fall of the Berlin Wall",
+        "Terrorist attacks in the United States",
+        "Earthquake in Haiti",
+        "End of World War II"
+      ],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "On September 11, 2001, terrorist attacks occurred in the United States."
+    },
+    {
+      "id": 4,
+      "question": "Which country has the oldest continuously used national flag?",
+      "options": ["France", "Denmark", "Japan", "Italy"],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "Denmark's flag, the Dannebrog, has been in use since the 13th century."
+    },
+    {
+      "id": 5,
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512."
+    },
+    {
+      "id": 6,
+      "question": "Which ancient civilization built Machu Picchu?",
+      "options": ["Aztecs", "Mayans", "Incas", "Olmecs"],
+      "correct_answer": 2,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "Machu Picchu was built by the Incas in the 15th century."
+    },
+    {
+      "id": 7,
+      "question": "Who was the first person to reach the South Pole?",
+      "options": ["Robert Falcon Scott", "Roald Amundsen", "Ernest Shackleton", "Edmund Hillary"],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "Roald Amundsen reached the South Pole in December 1911."
+    },
+    {
+      "id": 8,
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "The Nile is traditionally considered the longest river, though some sources now cite the Amazon."
+    },
+    {
+      "id": 9,
+      "question": "Which philosopher wrote 'The Republic'?",
+      "options": ["Aristotle", "Plato", "Socrates", "Descartes"],
+      "correct_answer": 1,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "Plato wrote 'The Republic', a foundational text in Western philosophy."
+    },
+    {
+      "id": 10,
+      "question": "Which element has the chemical symbol 'W'?",
+      "options": ["Tungsten", "Silver", "Tin", "Lead"],
+      "correct_answer": 0,
+      "difficulty": "hard",
+      "category": "general_culture",
+      "explanation": "Tungsten's symbol 'W' comes from its German name, Wolfram."
+    }
+  ]
+}

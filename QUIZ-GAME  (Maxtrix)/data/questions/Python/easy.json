@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you display 'Hello' in Python?",
+      "options": ["print(\"Hello\")", "echo(\"Hello\")", "console.log(\"Hello\")", "write(\"Hello\")"],
+      "correct_answer": 0,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "The print() function is used to display text in Python."
+    },
+    {
+      "id": 2,
+      "question": "Which type represents a decimal number in Python?",
+      "options": ["int", "float", "str", "bool"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "The 'float' type is used for decimal numbers."
+    },
+    {
+      "id": 3,
+      "question": "How do you comment a line in Python?",
+      "options": ["//", "<!-- -->", "#", "/* */"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "A single-line comment in Python starts with '#'."
+    },
+    {
+      "id": 4,
+      "question": "Which keyword defines a function in Python?",
+      "options": ["function", "def", "func", "define"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "The 'def' keyword is used to define a function."
+    },
+    {
+      "id": 5,
+      "question": "What is the correct file extension for Python files?",
+      "options": [".py", ".python", ".pt", ".pyt"],
+      "correct_answer": 0,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "Python files use the '.py' extension."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a valid variable name in Python?",
+      "options": ["2var", "my_var", "my-var", "my var"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "Variable names cannot start with a digit or contain spaces or hyphens."
+    },
+    {
+      "id": 7,
+      "question": "How do you get the length of a list in Python?",
+      "options": ["count(list)", "length(list)", "len(list)", "size(list)"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "The 'len()' function returns the length of a list."
+    },
+    {
+      "id": 8,
+      "question": "Which symbol is used for exponentiation in Python?",
+      "options": ["^", "**", "//", "%"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "'**' is used for exponentiation (e.g., 2**3 == 8)."
+    },
+    {
+      "id": 9,
+      "question": "What is the output of: print(type(5))?",
+      "options": ["<class 'str'>", "<class 'float'>", "<class 'int'>", "<class 'bool'>"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "5 is an integer, so type(5) returns <class 'int'>."
+    },
+    {
+      "id": 10,
+      "question": "How do you write a multi-line string in Python?",
+      "options": ["'string'", "\"string\"", "\"\"\"string\"\"\"", "#string#"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "Python",
+      "explanation": "Triple quotes (''' or \"\"\") are used for multi-line strings."
+    }
+  ]
+}

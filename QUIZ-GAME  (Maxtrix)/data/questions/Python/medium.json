@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does list.append() do in Python?",
+      "options": ["Adds at the beginning", "Adds at the end", "Removes the last element", "Sorts the list"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "The append() method adds an element to the end of the list."
+    },
+    {
+      "id": 2,
+      "question": "Which module manages dates in Python?",
+      "options": ["time", "datetime", "calendar", "All of the above"],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "The time, datetime, and calendar modules all provide date and time functions."
+    },
+    {
+      "id": 3,
+      "question": "What is the result of 3 == \"3\" in Python?",
+      "options": ["True", "False", "Error", "0"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "3 is an integer and \"3\" is a string, so the comparison is False."
+    },
+    {
+      "id": 4,
+      "question": "How do you create an empty dictionary in Python?",
+      "options": ["{}", "[]", "()", "dict[]"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "An empty dictionary is created with {}."
+    },
+    {
+      "id": 5,
+      "question": "Which method removes and returns the last item of a list?",
+      "options": ["remove()", "delete()", "pop()", "cut()"],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "The pop() method removes and returns the last element of a list."
+    },
+    {
+      "id": 6,
+      "question": "What is the output of: print(type([]))?",
+      "options": ["<class 'list'>", "<class 'dict'>", "<class 'tuple'>", "<class 'set'>"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "[] creates a list, so type([]) returns <class 'list'>."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is used to handle exceptions in Python?",
+      "options": ["try-except", "if-else", "for-while", "def-return"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "try-except blocks are used for exception handling."
+    },
+    {
+      "id": 8,
+      "question": "How do you access the value associated with key 'name' in a dictionary d?",
+      "options": ["d['name']", "d.name", "d->name", "d[name]"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "You access dictionary values with d['key']."
+    },
+    {
+      "id": 9,
+      "question": "What is the output of: print(2 ** 3 ** 2)?",
+      "options": ["512", "64", "256", "36"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "Exponentiation is right-associative: 2 ** (3 ** 2) = 2 ** 9 = 512."
+    },
+    {
+      "id": 10,
+      "question": "Which function returns the number of items in a tuple?",
+      "options": ["length()", "count()", "len()", "size()"],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "category": "Python",
+      "explanation": "len() returns the number of items in a tuple."
+    }
+  ]
+}

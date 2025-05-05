@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Rome"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "Paris is the capital of France."
+    },
+    {
+      "id": 2,
+      "question": "Who wrote Hamlet?",
+      "options": ["Victor Hugo", "William Shakespeare", "Albert Camus", "Jules Verne"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "William Shakespeare is the author of Hamlet."
+    },
+    {
+      "id": 3,
+      "question": "Which is the largest country in the world by area?",
+      "options": ["Canada", "China", "Russia", "United States"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "Russia is the largest country in the world by area."
+    },
+    {
+      "id": 4,
+      "question": "Where is the Eiffel Tower located?",
+      "options": ["Madrid", "Paris", "Rome", "Berlin"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "The Eiffel Tower is located in Paris."
+    },
+    {
+      "id": 5,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "Mars is often called the Red Planet."
+    },
+    {
+      "id": 6,
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correct_answer": 3,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "id": 7,
+      "question": "Which language is spoken in Brazil?",
+      "options": ["Spanish", "Portuguese", "French", "English"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "Portuguese is the official language of Brazil."
+    },
+    {
+      "id": 8,
+      "question": "What is the freezing point of water?",
+      "options": ["0°C", "100°C", "32°C", "212°C"],
+      "correct_answer": 0,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "Water freezes at 0°C (32°F)."
+    },
+    {
+      "id": 9,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "id": 10,
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "general_culture",
+      "explanation": "2 is the smallest and only even prime number."
+    }
+  ]
+}

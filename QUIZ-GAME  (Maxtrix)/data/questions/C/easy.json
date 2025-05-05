@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you declare an integer variable in C?",
+      "options": ["int x;", "integer x;", "num x;", "var x;"],
+      "correct_answer": 0,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "In C, an integer variable is declared using 'int x;'."
+    },
+    {
+      "id": 2,
+      "question": "Which operator gives the address of a variable in C?",
+      "options": ["*", "&", "->", "::"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "The '&' operator is used to get the address of a variable."
+    },
+    {
+      "id": 3,
+      "question": "Which function allocates memory dynamically in C?",
+      "options": ["malloc()", "calloc()", "realloc()", "All of the above"],
+      "correct_answer": 3,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "malloc(), calloc(), and realloc() all allocate memory dynamically."
+    },
+    {
+      "id": 4,
+      "question": "How do you end a statement in C?",
+      "options": [".", ",", ";", ":"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "A statement in C ends with a semicolon ';'."
+    },
+    {
+      "id": 5,
+      "question": "Which header file is needed for printf() and scanf()?",
+      "options": ["stdio.h", "stdlib.h", "conio.h", "string.h"],
+      "correct_answer": 0,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "The 'stdio.h' header file is required for printf() and scanf()."
+    },
+    {
+      "id": 6,
+      "question": "What is the correct syntax for a main function in C?",
+      "options": ["void main()", "int main()", "main()", "function main()"],
+      "correct_answer": 1,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "The standard syntax is 'int main()'."
+    },
+    {
+      "id": 7,
+      "question": "How do you write a single-line comment in C?",
+      "options": ["// comment", "# comment", "-- comment", "/* comment */"],
+      "correct_answer": 0,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "Single-line comments use '// comment'."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT a valid data type in C?",
+      "options": ["float", "double", "real", "int"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "'real' is not a standard data type in C."
+    },
+    {
+      "id": 9,
+      "question": "Which function is used to read a character from the keyboard in C?",
+      "options": ["getchar()", "putchar()", "scanf()", "gets()"],
+      "correct_answer": 0,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "getchar() reads a single character from the keyboard."
+    },
+    {
+      "id": 10,
+      "question": "What is the value of x after this code? int x = 5; x += 3;",
+      "options": ["3", "5", "8", "15"],
+      "correct_answer": 2,
+      "difficulty": "easy",
+      "category": "C",
+      "explanation": "x is incremented by 3, so x = 8."
+    }
+  ]
+}

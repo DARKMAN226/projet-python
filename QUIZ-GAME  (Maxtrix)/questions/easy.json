@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Exemple de question easy 1",
+            "options": [
+                "Option 1",
+                "Option 2",
+                "Option 3",
+                "Option 4"
+            ],
+            "correct_answer": 0,
+            "difficulty": "easy",
+            "category": "g\u00e9n\u00e9ral",
+            "explanation": "Explication pour la question easy 1"
+        },
+        {
+            "id": 2,
+            "question": "Exemple de question easy 2",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_answer": 0,
+            "difficulty": "easy",
+            "category": "g\u00e9n\u00e9ral",
+            "explanation": "Explication pour la question easy 2"
+        }
+    ]
+}

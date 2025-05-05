@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "In which year did the French Revolution take place?",
+      "options": ["1776", "1789", "1804", "1815"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "The French Revolution began in 1789."
+    },
+    {
+      "id": 2,
+      "question": "How many departments are there in metropolitan France?",
+      "options": ["95", "101", "89", "103"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "There are 95 departments in metropolitan France."
+    },
+    {
+      "id": 3,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "id": 4,
+      "question": "Which river flows through Paris?",
+      "options": ["The Seine", "The Rhine", "The Loire", "The Danube"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "The Seine River flows through Paris."
+    },
+    {
+      "id": 5,
+      "question": "Which scientist developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Marie Curie"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "Albert Einstein developed the theory of relativity."
+    },
+    {
+      "id": 6,
+      "question": "What is the largest desert in the world?",
+      "options": ["Gobi", "Sahara", "Antarctica", "Kalahari"],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "Antarctica is the largest desert by area."
+    },
+    {
+      "id": 7,
+      "question": "Who is the author of '1984'?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "J.K. Rowling"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "George Orwell wrote '1984'."
+    },
+    {
+      "id": 8,
+      "question": "Which city hosted the 2012 Summer Olympics?",
+      "options": ["Beijing", "London", "Rio de Janeiro", "Athens"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "London hosted the 2012 Summer Olympics."
+    },
+    {
+      "id": 9,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Au", "Gd", "Go"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "The chemical symbol for gold is Au."
+    },
+    {
+      "id": 10,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "Thailand", "South Korea"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "general_culture",
+      "explanation": "Japan is called the Land of the Rising Sun."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does NULL mean in C?",
+      "options": ["0", "'\\0'", "Empty pointer", "All of the above"],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "NULL is used to represent an empty pointer in C."
+    },
+    {
+      "id": 2,
+      "question": "What does sizeof(int) return on a 64-bit system?",
+      "options": ["2", "4", "8", "Depends on the compiler"],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "The size of int can vary depending on the compiler and system."
+    },
+    {
+      "id": 3,
+      "question": "How do you declare an array of 5 integers in C?",
+      "options": ["int tab[5];", "int tab(5);", "array int tab[5];", "int tab[] = 5;"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "The correct syntax is 'int tab[5];'."
+    },
+    {
+      "id": 4,
+      "question": "What does the strcpy() function do?",
+      "options": ["Copies a string", "Compares strings", "Concatenates strings", "Counts characters"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "strcpy() copies a string from source to destination."
+    },
+    {
+      "id": 5,
+      "question": "Which operator is used to access members of a structure through a pointer?",
+      "options": [".", "->", "&", "*"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "The '->' operator is used for accessing structure members via a pointer."
+    },
+    {
+      "id": 6,
+      "question": "What is the output of: printf(\"%d\", 10/4);",
+      "options": ["2.5", "2", "2.0", "Error"],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "Integer division in C truncates the result, so 10/4 is 2."
+    },
+    {
+      "id": 7,
+      "question": "Which standard library function is used to compare two strings in C?",
+      "options": ["strcmp()", "strcat()", "strcpy()", "strlen()"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "strcmp() compares two strings."
+    },
+    {
+      "id": 8,
+      "question": "Which keyword is used to define a constant in C?",
+      "options": ["const", "constant", "define", "static"],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "'const' is used to declare a constant variable."
+    },
+    {
+      "id": 9,
+      "question": "What is the result of: int x = 3; printf(\"%d\", ++x * x++);",
+      "options": ["12", "16", "15", "Undefined behavior"],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "Using both pre-increment and post-increment on the same variable in one expression causes undefined behavior."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT a valid loop in C?",
+      "options": ["for", "while", "repeat-until", "do-while"],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "category": "C",
+      "explanation": "'repeat-until' is not a loop structure in C."
+    }
+  ]
+}
