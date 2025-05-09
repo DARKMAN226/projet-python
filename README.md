@@ -37,3 +37,18 @@ Cette application Quiz desktop est développée en Python avec la bibliothèque 
 
 ## Structure du projet
 
+- `data/questions/` : questions organisées par catégorie et difficulté  
+- `data/scores.json` : stockage des scores et statistiques  
+- `game_ui.py` : interface graphique Tkinter  
+- `quiz_manager.py` : gestion des questions et réponses  
+- `main.py` : point d’entrée de l’application  
+
+---
+
+## Installation et exécution
+
+1. Assurez-vous d’avoir Python 3 installé.  
+2. Clonez ou téléchargez le projet.  
+3. Lancez l’application principale :
+
+
