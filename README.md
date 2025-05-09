@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=⚡+The+Best+Quiz+Application+of+is;💎+Edition+by+Matrix+group" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=⚡+the+best+quiz+app+is ;💎+published+by+Matrix+GROUPE" alt="Footer Animation">
 </h3>
 
 ---
