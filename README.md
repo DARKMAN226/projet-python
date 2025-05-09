@@ -52,3 +52,59 @@ Cette application Quiz desktop est développée en Python avec la bibliothèque 
 3. Lancez l’application principale :
 
 
+---
+
+## Utilisation
+
+- Lancez l’application, créez un nouveau joueur ou sélectionnez un existant.  
+- Choisissez une catégorie de quiz.  
+- Sélectionnez un niveau de difficulté (facile, moyen, difficile).  
+- Répondez aux questions dans le temps imparti.  
+- Consultez votre score et débloquez les niveaux supérieurs selon vos performances.  
+
+---
+
+## Fonctionnalités
+
+- Gestion des utilisateurs : création et sélection  
+- Plusieurs catégories (ex : Python, Culture générale)  
+- Trois niveaux de difficulté  
+- Questions chronométrées avec fin automatique  
+- Suivi des scores par utilisateur, catégorie et niveau  
+- Déblocage progressif des niveaux  
+- Interface intuitive avec Tkinter  
+
+---
+
+## Dépendances
+
+- Python 3.x  
+- Tkinter (inclus dans la plupart des distributions Python)  
+
+---
+
+## Extension du projet
+
+- Ajouter des catégories et questions via des fichiers JSON supplémentaires  
+- Personnaliser l’interface (apparence, sons, animations)  
+- Implémenter une authentification utilisateur  
+- Ajouter des statistiques détaillées et suivi de progression  
+
+---
+
+## Extraits du code principal
+
+
+---
+
+## Références
+
+- [Tutoriel Tkinter - Real Python](https://realpython.com/python-gui-tkinter/)  
+- [Créer une application Quiz avec Tkinter - freeCodeCamp](https://www.freecodecamp.org/news/how-to-create-a-gui-quiz-application-using-tkinter-and-open-trivia-db/)  
+- [Exemple de Quiz Python - GitHub](https://github.com/mroungou/quiz-application)  
+
+---
+
+
+
+
