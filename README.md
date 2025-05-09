@@ -13,6 +13,10 @@
   </a>
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+DarK-BOT+MD+Edition+by+Matrix+group;⚡+The+Best+Quiz+Application+of+is" alt="Footer Animation">
+</h3>
+
 ---
 
 # Table des matières
