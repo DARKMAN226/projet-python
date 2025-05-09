@@ -9,7 +9,7 @@
 <!-- Effet typing animé -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=40&pause=1000&color=F20C39&background=FF20A500&center=true&vCenter=true&width=800&height=80&lines=Quiz+Application;by+Matrix+Group" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=40&pause=1000&color=F20C39&background=FF20A500&center=true&vCenter=true&width=800&height=80&lines=Quiz+App;by+Matrix+Group" alt="Typing SVG" />
   </a>
 </p>
 
